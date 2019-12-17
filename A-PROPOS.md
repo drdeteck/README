@@ -1,3 +1,4 @@
+`🚧 WORK IN PROGRESS 🚧`
 # Mon leadership 101
 ## Ma philosophie de gestion
 Je crois beaucoup dans l'autonomie la flexibilité et la liberté. Je fais confiance au professionnalisme des gens et je travail bien avec les gens qui prennent des initiatives. Il est important que des lignes directrices soient présentent parce que la création est meilleure avec certaines contraintes. 
@@ -10,3 +11,6 @@ Je m'attends à ce que mes collègues fassent preuve d'honnêteté intellectuell
 ## Mon engagement envers mes collègues
 Je ne jugerai pas. Je pense qu'il y a souvent plus qu'on observe (more than meets the eyes). Je fait des effort pour ne pas être trop partisant et je suis souvent à la recherche du point de vu différent (envers de la médaille). Pour se faire, je pose des questions et je challenge les gens. 
 
+<!--stackedit_data:
+eyJoaXN0b3J5IjpbLTgxOTEzODM4MV19
+-->
