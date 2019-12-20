@@ -27,3 +27,13 @@ Self Selection Team Creation is giving back the decision process of forming team
 - Shared, clear goal makes everything so much easier
 - Each team should have a name, a clear mission for what it will do and a product owner established in advance
 - We recommend keeping rules and constraints to a minimum
+
+## Sources
+-   [https://www.infoq.com/news/2017/11/self-selection-teams#](https://www.infoq.com/news/2017/11/self-selection-teams)
+-   [https://pragprog.com/book/mmteams/creating-great-teams](https://pragprog.com/book/mmteams/creating-great-teams)
+-   [https://nomad8.com/squadify-with-self-selecting-teams/](https://nomad8.com/squadify-with-self-selecting-teams/)
+-   [http://nomad8.com/wp-content/uploads/2014/05/Self_Selection_Kit_Checklists.pdf](http://nomad8.com/wp-content/uploads/2014/05/Self_Selection_Kit_Checklists.pdf)
+-   [http://www.methodsandtools.com/archive/selfselectingteams.php](http://www.methodsandtools.com/archive/selfselectingteams.php)
+<!--stackedit_data:
+eyJoaXN0b3J5IjpbLTIwNjE5MDUwMDddfQ==
+-->
