@@ -1,3 +1,11 @@
+Le projet d'audit se veut un projet de mapping de sujets important pour un écosystème de développement logiciel.
+
+Les objectifs de ce mapping:
+
+-   Lister les concepts importants pour la gestion
+-   Voir les possibles délégations de différentes responsabilités à différents rôles
+-   Potentiel de framework pour 'spawner' des initiatives internes
+
 # Volet Vision
 ## **Veille technologique**
 
@@ -301,5 +309,5 @@
 -   Est-ce que l'environnement de travail est source de motivation?
 -   Est-ce que l'environnement est propice à décrocher et 'prendre un break' ?
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3ODMyOTQxNTldfQ==
+eyJoaXN0b3J5IjpbLTE5NjExOTA0OTFdfQ==
 -->
