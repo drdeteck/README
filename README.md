@@ -11,6 +11,12 @@ Je m'attends à ce que mes collègues fassent preuve d'honnêteté intellectuell
 ## Mon engagement envers mes collègues
 Je ne jugerai pas. Je pense qu'il y a souvent plus qu'on observe (more than meets the eyes). Je fait des effort pour ne pas être trop partisant et je suis souvent à la recherche du point de vu différent (envers de la médaille). Pour se faire, je pose des questions et je challenge les gens. 
 
+---
+
+# My Notes
+* [Notes on dev responsabilities and whatnot](https://github.com/drdeteck/README/blob/master/Notes%20on%20dev%20responsabilites%20and%20whatnots.md)
+* [Audit of a dev department](https://github.com/drdeteck/README/blob/master/AUDIT.md)
+* []()
 <!--stackedit_data:
 eyJoaXN0b3J5IjpbLTgxOTEzODM4MV19
 -->
