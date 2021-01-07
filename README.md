@@ -16,7 +16,7 @@ Je ne jugerai pas. Je pense qu'il y a souvent plus qu'on observe (more than meet
 # My Notes
 * [Notes on dev responsabilities and whatnot](https://github.com/drdeteck/README/blob/master/Notes%20on%20dev%20responsabilites%20and%20whatnots.md)
 * [Audit of a dev department](https://github.com/drdeteck/README/blob/master/AUDIT.md)
-* []()
+* [Questions 1:1 (fr)](https://github.com/drdeteck/README/blob/master/QUESTIONS%201-1.md)
 <!--stackedit_data:
 eyJoaXN0b3J5IjpbLTgxOTEzODM4MV19
 -->
