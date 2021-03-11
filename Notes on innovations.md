@@ -1,5 +1,10 @@
 # Innovation
 
+## Random notes
+- Require a Question or a Problem
+- MVP/E : Minimal viable experience or product
+- Can test market and needs before implement
+
 ### [HBR - 4 Types of innovations (Greg Satell)](https://hbr.org/2017/06/the-4-types-of-innovation-and-the-problems-they-solve)
 
 ![HBR - 4 types of innovations](https://hbr.org/resources/images/article_assets/2017/06/W170608_SATELL_FOURTYPES-1200x703.png "HBR - 4 types of innovations")
